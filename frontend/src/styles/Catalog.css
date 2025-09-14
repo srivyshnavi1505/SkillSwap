@@ -126,3 +126,8 @@ html {
   scrollbar-color: #A5A2F3 #f1f1f1;
 }
 
+/* Add this class to your stylesheet */
+.with-doodles {
+  position: relative; /* This is crucial for positioning the doodle inside */
+  overflow: hidden; /* Prevents the doodle from going outside the container */
+}
