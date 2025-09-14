@@ -84,7 +84,7 @@ const Home = () => {
           </div>
           <div className="card green">
             <img src="https://i.pinimg.com/736x/dc/71/2c/dc712c782791382a736cd0b34ab0b31f.jpg" alt="strong team" />
-            <p>Strong team</p>
+            <p>Exchange & Grow</p>
           </div>
         </div>
 
