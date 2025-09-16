@@ -7,7 +7,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #fefefe;
+  background-color: #F0F3A2;
   color: #333;
 }
 
@@ -21,7 +21,7 @@ nav {
 }
 
 nav a {
-  color: #fff;
+  color: #f6f5f5;
   text-decoration: none;
   margin: 0 10px;
   font-weight: 500;
@@ -36,7 +36,7 @@ nav a:hover {
   max-width: 900px;
   margin: 20px auto;
   padding: 20px;
-  background: #fff;
+  background: #F0F3A2;
   border-radius: 10px;
   box-shadow: 0px 3px 8px rgba(0,0,0,0.1);
 }
