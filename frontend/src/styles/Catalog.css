@@ -4,7 +4,7 @@
 body {
   margin: 0;
   background-color: #f0f0d5; /* A very light off-white or light grey for the overall page background */
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+   font-family: "Outfit", sans-serif;
 }
 
 .catalog-container {
