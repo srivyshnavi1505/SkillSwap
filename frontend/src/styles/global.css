@@ -4,13 +4,14 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: Arial, sans-serif;
   background-color: #fefefe;
   color: #333;
 }
-
+body {
+  font-family: "Outfit", sans-serif;
+}
 /* Navbar */
 nav {
   padding: 10px 20px;
@@ -19,18 +20,15 @@ nav {
   justify-content: space-between;
   align-items: center;
 }
-
 nav a {
   color: #fff;
   text-decoration: none;
   margin: 0 10px;
   font-weight: 500;
 }
-
 nav a:hover {
   text-decoration: underline;
 }
-
 /* Page container */
 .page-container {
   max-width: 900px;
