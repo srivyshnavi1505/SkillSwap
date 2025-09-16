@@ -16,7 +16,7 @@ body {
   margin: 0;
   background: url('https://i.pinimg.com/736x/9d/cb/6c/9dcb6ce04537ccaf48e5bed6d6f714ca.jpg') no-repeat center center fixed;
   background-size: cover;
-  font-family: sans-serif;
+   font-family: "Outfit", sans-serif;
   min-height: 100vh;
 }
 
